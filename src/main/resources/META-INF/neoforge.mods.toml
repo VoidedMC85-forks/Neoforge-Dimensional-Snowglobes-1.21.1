@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)" # Assuming you want loader version 5 and above
+license="MIT"
+
+[[mods]]
+modId="dimensionalsnowglobes"
+version="1.0.0"
+displayName="Dimensional Snowglobes"
+description='''A mod that adds magical snowglobes for teleportation and exploration.'''
+
+[[dependencies.dimensionalsnowglobes]]
+modId="neoforge"
+type="required"
+versionRange="[21.3.58,)" # Replace with the NeoForge version you are targeting
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dimensionalsnowglobes]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.3,)" # Adjust based on the Minecraft version compatibility
+ordering="NONE"
+side="BOTH"
