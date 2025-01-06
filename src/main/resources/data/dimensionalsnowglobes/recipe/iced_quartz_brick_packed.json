@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:packed_ice"
+    },
+    "Q": {
+      "item": "minecraft:quartz_bricks"
+    }
+  },
+  "pattern": [
+    "III",
+    "IQI",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dimensionalsnowglobes:iced_quartz_brick"
+  }
+}

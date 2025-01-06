@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "dimensionalsnowglobes:iced_quartz_block",
+    "dimensionalsnowglobes:iced_chiseled_quartz",
+    "dimensionalsnowglobes:iced_quartz_pillar",
+    "dimensionalsnowglobes:iced_quartz_brick"
+  ]
+}

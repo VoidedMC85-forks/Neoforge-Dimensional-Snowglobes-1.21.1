@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "dimensionalsnowglobes:iced_quartz_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "dimensionalsnowglobes:iced_chiseled_quartz"
+  }
+}

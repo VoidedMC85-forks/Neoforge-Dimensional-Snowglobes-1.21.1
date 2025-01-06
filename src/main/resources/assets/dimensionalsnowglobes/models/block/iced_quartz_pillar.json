@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dimensionalsnowglobes:block/iced_quartz_pillar_top",
+    "side": "dimensionalsnowglobes:block/iced_quartz_pillar"
+  }
+}

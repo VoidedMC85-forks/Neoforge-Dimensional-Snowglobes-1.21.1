@@ -11,13 +11,13 @@ description='''A mod that adds magical snowglobes for teleportation and explorat
 [[dependencies.dimensionalsnowglobes]]
 modId="neoforge"
 type="required"
-versionRange="[21.3.58,)" # Replace with the NeoForge version you are targeting
+versionRange="[21.1.92,)" # Replace with the NeoForge version you are targeting
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.dimensionalsnowglobes]]
 modId="minecraft"
 type="required"
-versionRange="[1.21.3,)" # Adjust based on the Minecraft version compatibility
+versionRange="[1.21.1,)" # Adjust based on the Minecraft version compatibility
 ordering="NONE"
 side="BOTH"

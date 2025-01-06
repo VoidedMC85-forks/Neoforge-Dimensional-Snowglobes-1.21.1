@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:blue_ice"
+    },
+    "Q": {
+      "item": "minecraft:chiseled_quartz_block"
+    }
+  },
+  "pattern": [
+    "III",
+    "IQI",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dimensionalsnowglobes:iced_chiseled_quartz"
+  }
+}
